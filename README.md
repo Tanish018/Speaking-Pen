@@ -2,9 +2,7 @@
 
 Speaking-Pen is a small demo application that converts spoken audio into text. The project
 combines a Spring Boot backend that accepts audio uploads and returns transcriptions with a
-lightweight Vite + React frontend that lets users upload audio files and view the resulting
-
-transcribed text. The backend leverages the GEMINI API for speech-to-text transcription.
+lightweight Vite + React frontend that lets users upload audio files and view the resulting transcribed text. The backend leverages the GEMINI API for speech-to-text transcription.
 
 > Simple demo: Spring Boot backend + Vite React frontend for audio transcription.
 
